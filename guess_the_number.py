@@ -1,4 +1,4 @@
-from art import logo
+from art_number import logo
 print(logo)
 import random
 
