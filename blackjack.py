@@ -1,5 +1,4 @@
-import art
-from art import logo
+from art_blackjack import logo
 import random
 
 def calculate_score(cards):
